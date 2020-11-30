@@ -7,6 +7,7 @@ public class HelloGitDemo {
         System.out.println("HelloGit!");
         System.out.println("HelloGit!更新1");
         System.out.println("HelloGit!创建分支");
+        System.out.println("HelloGit!主干添加内容");
 
     }
 
