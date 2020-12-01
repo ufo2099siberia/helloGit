@@ -17,6 +17,8 @@ public class HelloGitDemo {
         
         System.out.println("different between rebase and merge!");
 
+        System.out.println("这次需要测试直接rebase有什么变化");
+
     }
 
 }
