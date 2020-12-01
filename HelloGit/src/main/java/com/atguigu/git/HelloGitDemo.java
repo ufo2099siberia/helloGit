@@ -13,6 +13,12 @@ public class HelloGitDemo {
         System.out.println("测试merge还是rebase");
         System.out.println("different between rebase and merge!");
         System.out.println("这次需要测试直接rebase有什么变化");
+
+        cal(9,10);
+    }
+
+    public static int cal(int x,int y){
+        return x * y;
     }
 
 }
