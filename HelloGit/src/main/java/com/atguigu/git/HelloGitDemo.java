@@ -2,6 +2,10 @@ package com.atguigu.git;
 
 public class HelloGitDemo {
 
+    private void test1(){
+        System.out.println("这是主干的内容");
+    }
+
     public static void main(String[] args) {
         System.out.println("HelloGit!");
         System.out.println("HelloGit!更新1");
