@@ -14,6 +14,8 @@ public class HelloGitDemo {
          System.out.println("HelloGit!克隆下来的项目");
         System.out.println("merge or rebase");
         System.out.println("测试merge还是rebase");
+        
+        System.out.println("different between rebase and merge!");
 
     }
 
