@@ -16,6 +16,7 @@ public class HelloGitDemo {
 
         cal(9,10);
         System.out.println(1111);
+        System.out.println("2222 = " + 2222);
         cal2(5,7);
     }
 
