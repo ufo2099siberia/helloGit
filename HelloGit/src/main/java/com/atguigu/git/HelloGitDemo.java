@@ -12,6 +12,7 @@ public class HelloGitDemo {
          System.out.println("HelloGit!在线更新编辑发牌");
 
          System.out.println("HelloGit!克隆下来的项目");
+        System.out.println("测试merge还是rebase");
 
     }
 
