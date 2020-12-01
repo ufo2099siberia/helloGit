@@ -15,6 +15,7 @@ public class HelloGitDemo {
         System.out.println("这次需要测试直接rebase有什么变化");
 
         cal(9,10);
+        System.out.println(1111);
         cal2(5,7);
     }
 
