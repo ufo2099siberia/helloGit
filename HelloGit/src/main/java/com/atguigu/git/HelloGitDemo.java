@@ -15,10 +15,15 @@ public class HelloGitDemo {
         System.out.println("这次需要测试直接rebase有什么变化");
 
         cal(9,10);
+        cal2(5,7);
     }
 
     public static int cal(int x,int y){
         return x * y;
+    }
+
+    public static int cal2(int x,int y){
+        return x + y;
     }
 
 }
